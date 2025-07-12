@@ -1,0 +1,48 @@
+Subject: 🚨 Security Incident Detected – Malware & Unauthorized Access Activity on 3 July 2025
+
+To: [Recipient's Email]
+Cc: [Security Team / IT Manager / CISO]
+Attachments:
+
+Incident_Response_Report.pdf
+
+Alert_Classification_Log.xlsx
+
+Dear [Recipient's Name],
+
+I am writing to inform you of a significant security incident identified on 3 July 2025, involving multiple internal systems and users. The SOC team has analyzed event logs and confirmed multiple instances of malware activity, including Trojan infections, Rootkit signatures, Ransomware behavior, and suspicious file access patterns across several IPs and user accounts.
+
+Key findings:
+
+Impacted users: alice, bob, charlie, david, eve
+
+Malware types: Trojan, Rootkit, Worm, Spyware, Ransomware
+
+High-risk IPs: 10.0.0.5, 172.16.0.3, 203.0.113.77
+
+Actions taken: Affected systems have been isolated, credentials revoked, and incident response is underway.
+
+Please find attached the detailed Incident Response Report (PDF) and an Alert Classification Log (Excel) for your review.
+
+Next Steps Recommended:
+
+Conduct a full antivirus scan across all endpoints
+
+Reset passwords for all users involved
+
+Enforce multi-factor authentication (MFA)
+
+Review firewall and access control logs
+
+Initiate a post-incident review meeting
+
+We will continue to monitor the network and provide updates as more information becomes available.
+
+Should you have any questions or require additional data, feel free to contact me directly.
+
+Best regards,
+[Your Full Name]
+SOC Analyst
+[Your Organization]
+📞 [Phone Number] | ✉️ [Your Email]
+
